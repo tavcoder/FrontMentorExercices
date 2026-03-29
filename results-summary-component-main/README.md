@@ -108,4 +108,4 @@ What worked well: having specific, targeted feedback at each stage rather than g
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@tavcoder)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/@tavcoder)
