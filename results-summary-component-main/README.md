@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/tavcoder/FrontMentorExercices/edit/main/results-summary-component-main
+- Live Site URL: https://front-mentor-exercices.vercel.app/
 
 ## My process
 
