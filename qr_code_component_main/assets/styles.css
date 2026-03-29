@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 10px;
+    font-family: 'Outfit', sans-serif;
+}
+
+body {
+    font-size: 1.3rem;
+}
+
+.layout {
+    min-height: 100%;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+}
+
+.layout__main {
+    background-color: hsl(212, 45%, 89%);
+    width: 120rem;
+    height: 40rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 5px 10px rgba(130, 130, 130, 0.194);
+    border-radius: 0.5rem;
+}
+
+.main__card {
+    background-color: hsl(0, 0%, 100%);
+    width: 20rem;
+    height: 30rem;
+    border-radius: 1rem;
+    box-shadow: 1px 5px 10px rgba(130, 130, 130, 0.194);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 3rem;
+
+    text-align: center;
+    padding: 0.5rem 1rem;
+}
+
+.card__QRContainer{
+   height: 15rem;
+   width: 100%;
+   margin-top: -1rem;
+}
+
+.QRContainer__img{
+    width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+}
+
+.card__text{
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+.card__title{
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: hsl(218, 44%, 22%);
+}
+
+.card__paragraph{
+    font-weight: 400;
+    opacity: 0.5;
+}
+
+.attribution{
+    font-size: 0.8rem;
+    margin-top: 2rem;
+    opacity: 0.6;
+}
